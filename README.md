@@ -1,2 +1,2 @@
 # Substitution-Cipher
-Cracking substitution cipher using frequency analysis and english validator
+Cracking substitution cipher automatically using frequency analysis and english validator
